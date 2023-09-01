@@ -1,7 +1,7 @@
 # Brno_FIT_VUT_2022
 
 - **Organiser**: Brno University of Technology, Czech Republic
-- **Period**: 11th - 22th Jul, 2023
+- **Period**: 11th - 22th Jul, 2022
 
 ### Brno FIT VUT 2022 practices.
 
